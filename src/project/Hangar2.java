@@ -45,6 +45,7 @@ public class Hangar2 {
 
 		
 		maxSpeed = maxSpeed * 0.00130332;
+		
 		j.setModel(modelName);
 		j.setSpeed(maxSpeed);
 		j.setRange(maxRange);
